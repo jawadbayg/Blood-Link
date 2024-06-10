@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1046677148282",
+    "project_id": "bloodbankmanager-4c888",
+    "storage_bucket": "bloodbankmanager-4c888.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046677148282:android:80c05bcc4dfa29876a21c3",
+        "android_client_info": {
+          "package_name": "com.example.bloodbankmanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB03c6kLw94OWOPB7qecDx367pciF1eGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
